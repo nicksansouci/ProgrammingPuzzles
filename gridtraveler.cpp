@@ -39,5 +39,5 @@ int GridTraveler(int m, int n)
 
 int main() 
 {
-    cout << GridTraveler(10, 10) << endl;
+    cout << GridTraveler(5, 4) << endl;
 }
